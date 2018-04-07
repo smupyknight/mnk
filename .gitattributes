@@ -1,0 +1,2 @@
+monkeyd filter=lfs diff=lfs merge=lfs -text
+monkeyd-testnet filter=lfs diff=lfs merge=lfs -text
